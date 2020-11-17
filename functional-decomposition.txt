@@ -1,0 +1,101 @@
+vending machine from human perspective
+-----------------------------------------
+
+you get a bag of chips
+    - Approach machine
+        - wait you are i within arm range
+    - Decide which flavor you want
+        - Look at all the flavors and decide which one you want
+    - Determine the number of flavor you want
+        - Remember the number of that flavor by looking at the number below
+    - Put in the amount of money
+        - Look at the cost of the chip
+        - Put in the appropriate ammount
+    - Key in the number of the flavor
+        - Enter the number at the right side of the machine
+    - Get the bag from the bottom of the machine
+        - Bend down and get the chip you bought
+        - Pull your arm out and open the chip
+        
+        
+Functional decomposition from the machine’s perspective.
+----------------------------------------------------------
+    - Waiting for somepeople to approach
+        - Standing still and wait. for people to visit
+    - Look at the person, and guess which flavor he want
+        - According how the person look, anticipate which flavor he want
+    - Revieving money from the left side
+        - Look at the person, reaching to his pocket and grab the money out
+        - Waiting to eat the money
+        - As the person was inserting the money, you feel like you are eating
+    - Getting pressed
+        - Watching the fingers moving on you, and massage you
+    - Give the person what he want
+        - According to what the person want, give he what he want
+    -  Waiting for the food to. be grabed
+        - Feeling the fingers goes inside you
+        - Waiting for the food to be grabed out
+        -  Watching the person leave
+        
+        
+Cookie is to big for the glass How do you fix this problem?
+-------------------------------------------------------------
+    - Try to push the cookie inside the glass
+        - Want to fill the cookie with milk
+        - Push the cookie with your right hand
+        - Realized the cookie is too big for the glass
+    - Pull out the chip and give it a bite
+        - Pull out the cookie with your left hand
+        - Give it a bite with your teeth
+    - Try to put the cookie back into the glass to fill it with milk
+        - Use left hand to insert the cookie back to the glass
+    - Enjoy the cookie and the milk
+        - You realized the cookie is small enough
+        - Fill the coockie with milk
+        - Use your right hand to eat the cookie
+        - Enjoy it
+        
+        
+How do you fix this problem? Spoon dropped into the soup
+    - Get the spoon out of the soup
+        - Use your right hand with 2 finger to grab the spoon end
+        - Make sure it's not too hot
+    - Use your lip to suck the remaining soup on the spoon
+        - Use your left hand to put the spoon near your mouth
+        - Open your mouth
+        - Suck at the end of the spoon
+        - Get the spoon out of your mouth
+    - Continue using the spoon
+        - Put the spoon head back to the soup
+        - Continue using the same spoon to drink the soup
+        
+        
+People can't park, solve it with a robotic way
+
+    - Open the back of your car
+        - Slowly walk to the back of the car
+        -  Reach the button and open the back of your car
+        - Look at the weapon
+    - Get a special weapon out
+        - Identify which weapon you want
+        - Scan it with your eye
+        - Grab the weapon
+        - Close the back of the car using your right hand
+        - Walk toward the truck
+    - Aim at the truck that's parking at the wrong spot
+        - Carrie the weapon on your shoulder
+        - Use your right eye to aim the truck
+    - Fire at the truck
+        -  Press the fire button
+        - A misstle fired out
+    - Watiching the tuck get explode
+        - The truck got exploded within a BOOM
+    - Get in your own car
+        - Walk toward your own car
+        - Get the key out
+    - Park your car and leave
+        - Open the door
+        - Get in the car
+        - Park the car
+        - Open the door
+        - Leave
