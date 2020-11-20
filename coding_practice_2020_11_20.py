@@ -15,3 +15,15 @@ pack = int(input("How many packs are there: "))
 Total = cans  * pack
 
 print(f"there are total of {Total} cans.")
+
+
+
+practice 3
+
+length = int(input("what's the length"))
+width = int(input("what's the width"))
+height = int(input("what's the height"))
+
+volume = length * width * height
+
+print(f"the volume of this rectangular prism is:   {volume}")
