@@ -27,3 +27,13 @@ height = int(input("what's the height"))
 volume = length * width * height
 
 print(f"the volume of this rectangular prism is:   {volume}")
+
+
+
+practice 4
+input("do you want to join the google meet")
+answer == "yes"
+if answer == "yes"
+  print("This probably not a good idea")
+elif answer == "no"
+  print("ok good")
